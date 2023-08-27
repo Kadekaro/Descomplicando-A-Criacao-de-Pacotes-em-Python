@@ -25,15 +25,13 @@ pip install Image-Processing
 ---
 ## Usage:
 
-```python:
-from package_name.module1_name import file1_name
-file1_name.my_function()
+```
+python:		from package_name.module1_name import file1_name
+		file1_name.my_function()
 ```
 ---
 ## Author:
-```Name:
-Wesley Kadekaro
-```
+	Name:	Wesley Kadekaro
 ---
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## License:
+	[MIT](https://choosealicense.com/licenses/mit/)
