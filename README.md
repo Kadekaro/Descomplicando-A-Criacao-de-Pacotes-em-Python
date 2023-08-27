@@ -1,16 +1,25 @@
-# package_name
+# Descomplicando a Criação de Pacotes de Processamento de Imagens em Python
+## Image-Processing
 
 Description. 
 The package package_name is used to:
-	- 
-	-
-
+	Processing:
+ 		- Histogram Matching
+   		- Strutural Similarity
+     		- Resize Image
+	Utils:
+ 		- Read Image
+   		- Save Image
+     		- Plot Image
+       		- Plot Result
+	 	- Plot Histogram
+   
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip install Image-Processing
 ```
 
 ## Usage
@@ -21,7 +30,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Wesley Kadekaro
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
