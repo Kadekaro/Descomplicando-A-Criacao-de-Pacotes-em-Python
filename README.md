@@ -1,9 +1,9 @@
 # Descomplicando a Criação de Pacotes de Processamento de Imagens em Python
 ---
-## Title: Image-Processing
+## Title: Image-Processing-Testando-O-Primeiro
 ---
 Description: 
-The package package_name is used to:
+The package Image-Processing-Testando-O-Primeiro is used to:
 - Processing:
 	- Histogram Matching
 	- Strutural Similarity
@@ -20,16 +20,16 @@ The package package_name is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install Image-Processing
+pip install Image-Processing-Testando-O-Primeiro
 ```
 ---
 ## Usage:
 
 ```python
-from Image-Processing.processing import combination
+from Image-Processing-Testando-O-Primeiro.processing import combination
 combination.find_difference()
 
-from Image-Processing.processing import transformation
+from Image-Processing-Testando-O-Primeiro.processing import transformation
 transformation.resize_image()
 
 etc...
