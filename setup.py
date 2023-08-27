@@ -14,7 +14,7 @@ setup(
     description="Aprendendo a fazer a criação de pacotes em Python",
     long_description=page_description,
     long_description_content_type=requirements,
-    url="https://github.com/Kadekaro/Descomplicando-A-Criacao-de-Pacotes-em-Python/tree/master"
+    url="https://github.com/Kadekaro/Descomplicando-A-Criacao-de-Pacotes-em-Python/tree/master",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
