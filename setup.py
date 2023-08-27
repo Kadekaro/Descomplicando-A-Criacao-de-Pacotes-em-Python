@@ -7,14 +7,14 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
+    name="Image-Processing",
     version="0.0.1",
-    author="my_name",
-    author_email="my_email",
-    description="My short description",
+    author="Wesley Kadekaro",
+    author_email="kadekaroshop@gmail.com",
+    description="Aprendendo a fazer a criação de pacotes em Python",
     long_description=page_description,
-    long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    long_description_content_type=requirements,
+    url="https://github.com/Kadekaro/Descomplicando-A-Criacao-de-Pacotes-em-Python/tree/master"
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
