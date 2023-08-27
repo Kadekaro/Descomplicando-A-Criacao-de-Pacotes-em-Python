@@ -1,6 +1,6 @@
 # Descomplicando a Criação de Pacotes de Processamento de Imagens em Python
 ---
-## Image-Processing
+## Title: Image-Processing
 ---
 Description: 
 - The package package_name is used to:
