@@ -3,7 +3,7 @@
 ## Title: Image-Processing
 ---
 Description: 
-- The package package_name is used to:
+The package package_name is used to:
 - Processing:
 	- Histogram Matching
 	- Strutural Similarity
