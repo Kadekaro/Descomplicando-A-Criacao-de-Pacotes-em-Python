@@ -26,8 +26,13 @@ pip install Image-Processing
 ## Usage:
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from Image-Processing.processing import combination
+combination.find_difference()
+
+from Image-Processing.processing import transformation
+transformation.resize_image()
+
+etc...
 ```
 ---
 ## Author: Wesley Kadekaro
